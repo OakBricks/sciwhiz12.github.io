@@ -443,6 +443,12 @@
             "nickname": "Lady Catgirl Deadpool",
             "discriminator": "8629",
             "avatar": "https://cdn.discordapp.com/avatars/137690194718490624/c6c1f3812b60bcca76a74784e92186f8.webp"
+        },
+        "stepsword": {
+            "id": "341220903058931712",
+            "username": "stepsword",
+            "discriminator": "6061",
+            "avatar": "https://cdn.discordapp.com/avatars/341220903058931712/fb4ce38c8347a3f99380366bbc1b088b.webp"
         }
     },
     "roles": {
@@ -3617,6 +3623,50 @@
             "user": "AshersLab",
             "text": "Illy ANAL",
             "nsfw": true
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "Hey I'm not wise, you gotta delete that quote now",
+            "text": "Nano"
+        },
+        {
+            "user": "ModelPart.Cube's constructor is like code salad",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
+        },
+        {
+            "user": "i am at 0",
+            "text": "LagoCraft"
         }
     ]
 }
